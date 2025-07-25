@@ -181,6 +181,15 @@
       "start": "17.06.2025"
     },
     {
+      "key": "CHURKA-SM0KKY-T8N2L4P5-Y6T1P8M3-W9L2T5M7",
+      "version": "1.5.0 Beta Patch 1",
+      "srok": "1y",
+      "state": 1,
+      "hwid": "367f5c798d130f85cce57d82b87cd9f5168baf29",
+      "jarUrl": "https://www.dropbox.com/scl/fi/i4fbnt7r5ij44ngeklpv4/betka.zip?rlkey=sjg7sbxmsjkim2tvyrvqbbs9r&st=juvj5aq1&dl=1",
+      "start": "13.07.2025"
+    },
+    {
       "key": "CHURKA-D3D1NS-PBFEKD5-GX5F4I5M-M2VEL97SA",
       "version": "1.5.0 Beta Patch 1",
       "srok": "30d",
@@ -220,7 +229,7 @@
       "key": "CHURKA-BR0YV2-P1R3T9L2-D4M5Y6T1-W8W3F9M7",
       "version": "1.5.0 Beta Patch 1",
       "srok": "2d",
-      "state": 1,
+      "state": 0,
       "hwid": "d5512a203b48360be7281a0c5b041bae4a499652",
       "jarUrl": "https://www.dropbox.com/scl/fi/i4fbnt7r5ij44ngeklpv4/betka.zip?rlkey=sjg7sbxmsjkim2tvyrvqbbs9r&st=juvj5aq1&dl=1",
       "start": "12.07.2025"
