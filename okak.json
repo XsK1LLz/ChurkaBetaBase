@@ -253,6 +253,15 @@
       "start": "02.08.2025"
     },
     {
+      "key": "CHURKA-V01L0D-K7R2MX9-84LPB3ZN-E6TD5VH1",
+      "version": "1.5.0 Beta Patch 1",
+      "srok": "30d",
+      "state": 1,
+      "hwid": "",
+      "jarUrl": "https://www.dropbox.com/scl/fi/i4fbnt7r5ij44ngeklpv4/betka.zip?rlkey=sjg7sbxmsjkim2tvyrvqbbs9r&st=juvj5aq1&dl=1",
+      "start": "04.08.2025"
+    },
+    {
       "key": "CHURKA-BLACKW-3B7K1P6Y9-D2T4M6N3-F8J9R7L",
       "version": "1.5.0 Beta Patch 1",
       "srok": "30d",
